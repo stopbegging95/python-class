@@ -1,0 +1,6 @@
+tup = (['a', 'b', 'c'], ['d', 'e', 'f'])
+print(tup)
+tup[0].append('g')
+print(tup)
+tup[1].remove('e')
+print(tup)
