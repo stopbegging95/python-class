@@ -15,7 +15,7 @@
 # tuple1.append(5)
 # print(tuple1)
 
-# NOTE: List is mutable whereas tupple is immutable.
+# Note: List is mutable whereas tupple is immutable.
 #      List uses square brackets[]. Tuple may or not use parentheses().
 # List can be changed, but tuple cannot be changed. 
 
